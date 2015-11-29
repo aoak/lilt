@@ -1,7 +1,8 @@
 # lilt
 
-*TODO*
+## Dependencies:
 
-Dependency list:
-* Mp3Spi, tritonus, jl
+* Mp3Spi
+* tritonus-share
+* jl
 * Junit
